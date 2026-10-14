@@ -1,0 +1,5 @@
+describe "Prueba" {
+  test "de mentira" {
+    assert.that(true)
+  }
+}
